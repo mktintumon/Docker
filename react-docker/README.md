@@ -1,4 +1,4 @@
-
+# Commands to run docker 
 -  docker build -t react-docker .          -> for image 
 -  docker run react-docker                 -> for container
 -  docker run -p 5173:5173 react-docker    -> for port forwarding
