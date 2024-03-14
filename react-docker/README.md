@@ -8,5 +8,5 @@
 
 # To publish your image in Docker hub
 - docker login                                     (Logged in automatically if desktop login is done before)
-- docker tag react-docker mktintumon/react-docker  (default tage wwill be latest)
+- docker tag react-docker mktintumon/react-docker  (default tag will be latest)
 - docker push mktintumon/react-docker
